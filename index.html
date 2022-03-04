@@ -17,18 +17,24 @@
 </div>
 <body>
  <form action="">
-    <div>
+    <div class="">
         <p id="message"></p>
         <p> GENDER</p>
-        <input type="radio" name="gender" id="male" value="male"/>
-        <label for="male"> male</label>
-        <input type="radio" name="gender" id="female" value="female"/>
-        <label for="female"> female</label>
+        <select name="gender" id="gender">
+            <option> choose your gender</option>
+            <option>male</option>
+            <option>female</option>
+            <br>
+        </select> 
+    </div>
+
+    <div class="">
         <p>BIRTHDAY</p>
         <input type="date" name="birthday" id="birthday" />
         <br>
+        <br>
         <button type="submit">submit</button>
-        
+
     </div>
  </form>
 
