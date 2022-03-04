@@ -16,27 +16,34 @@
     <p><img src="image/name.jpeg" class="image" width="650" height="600"></p>
 </div>
 <body>
- <form action="">
-    <div class="">
-        <p id="message"></p>
-        <p> GENDER</p>
-        <select name="gender" id="gender">
-            <option> choose your gender</option>
-            <option>male</option>
-            <option>female</option>
+
+    <div class="container">
+        <h1>find out your akhan name here!</h1>
+        <form action="">
+            <p class="gender"> GENDER</p>
             <br>
-        </select> 
+            <select name="gender" id="gender">
+                <option>choose your age</option>
+                <option>male</option>
+                <option>female</option>
+            </select>
+            <br>
+            <BR>
+            <div class="birthday">
+              <div>  <p>BIRTHDAY</p></div>
+        
+                <input type="date" name="birthday" id="birthday">
+            </div>
+            <br>
+            <div class="text">
+                <input type="text" name="text" id="text">
+            </div>
+            <br>
+            <br>
+            <button type="submit">SUBMIT</button>
+        </form>
     </div>
-
-    <div class="">
-        <p>BIRTHDAY</p>
-        <input type="date" name="birthday" id="birthday" />
-        <br>
-        <br>
-        <button type="submit">submit</button>
-
-    </div>
- </form>
+ 
 
     <script src="js/script.js"></script>
 </body>

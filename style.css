@@ -16,4 +16,38 @@
     font-size: 36px;
     font-family: 'Courier New', Courier, monospace;
     margin-top: 10px;
+
+}
+.container{
+    width: 700px;
+    height: 400px;
+    margin-left: 400px;
+    margin-top: 250px;
+    border-radius: 3em;
+   
+}
+
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+
+form{
+    background-color: rgb(83, 76, 76);
+    width: 600px;
+    height: 300px;
+    padding: 10px;
+    border-radius: 2em;
+    padding-top: 100PX;
+    padding-left: 50PX;
+    
+
+}
+
+.container input{
+    width: 200px;
+    margin-bottom: 20px;
 }
