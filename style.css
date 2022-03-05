@@ -22,7 +22,7 @@
     width: 700px;
     height: 400px;
     margin-left: 400px;
-    margin-top: 250px;
+    margin-top: 150px;
     border-radius: 3em;
    
 }
@@ -41,7 +41,7 @@ form{
     height: 300px;
     padding: 10px;
     border-radius: 2em;
-    padding-top: 100PX;
+    padding-top: 80PX;
     padding-left: 50PX;
     
 
@@ -74,4 +74,37 @@ form{
     width: 300px;
     border-radius: 1em;
 
+}
+
+.container select{
+    height: 50px;
+    border-radius: 1em;
+    width: 250px;
+}
+.container input[type="date"]{
+    height: 50px;
+    border-radius: 1em;
+    padding-right: 50px;
+
+}.container select:hover{
+    cursor:pointer;
+    background: red;
+
+}
+
+.container input[type="date"]:hover{
+    cursor:pointer;
+    background: red;
+
+}
+
+.about {
+    margin-top: 50px;
+    margin-left: 30px;
+    align-items: center;
+}
+
+.about p{
+    font-size: 24px;
+    text-align: center;
 }
