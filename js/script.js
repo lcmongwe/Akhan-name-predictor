@@ -11,4 +11,10 @@ function akhanNames(){
         ["Friday" ,"Kofi" ,"Afua"]
         ["Saturday" ,"Kwame" ,"Ama"]
     ]
+
+    const d = new Date(birthday);
+    let day = d.getDay();
+    dayOfTheWeek = akhanArray[day][0];
+    maleName = akhanArray[day][1];
+    femaleName = akhanArray[day][2];
 }
