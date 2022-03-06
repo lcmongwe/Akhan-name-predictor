@@ -1,6 +1,6 @@
 
-function formRest(){
-    document.getElementById("form_data").requestFullscreen();
+function formReset(){
+    document.getElementById("form_data").reset();
 }
 
 
@@ -26,9 +26,9 @@ function akhanNames(){
     let day = d.getDay();
     let year = d.getFullYear;
 
-    var dayOfTheWeek = akhanNames[day][0];
-    var maleName = akhanNames[day][1];
-    var femaleName = akhanNames[day][2];
+    var dayOfTheWeek = akhanArray[day][0];
+    var maleName = akhanArray[day][1];
+    var femaleName = akhanArray[day][2];
     const output = document.getElementById("message");
 
     if (gender==""){
@@ -36,11 +36,11 @@ function akhanNames(){
     } else if (year >= 2022){
         alert("you are not born yet")
     }else if (gender == "male"){
-        output.innerHTML = "Hey! your AKhan name is " + maleName + "you were born on" +dayOfTheWeek;
+        output.innerHTML = "Hey! your AKhan name is " + maleName + "you were born on" + dayOfTheWeek;
     }else if ( gender== "female"){
-        output.innerHTML = "Hey! your AKhan name is " + femaleName + "you were born on" +dayOfTheWeek;
+        output.innerHTML = "Hey! your AKhan name is " + femaleName + "you were born on" + dayOfTheWeek;
     }
 
-formRest();
+ formReset();
 
 }

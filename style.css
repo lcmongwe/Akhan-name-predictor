@@ -103,9 +103,17 @@ form{
     background: red;
 
 
+}
 
+.container select{
+    height: 50px;
+    width: 250px;
+    border-radius: 1em;
+}
 
-    
+  .about{
+      margin-top: 60px;
+  }  
 
 
 .about p{
