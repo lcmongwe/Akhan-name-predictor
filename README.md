@@ -18,7 +18,7 @@ Author: LUCY MONGWE
 Have any questions? reach me on:
 1. Twitter : @lucy_Mongwe
 2. faceboook : Lucy Mongwe
-3.
+3. Email : lcmongwe@gmail.com
 
 ### LICENSE AND COPYRIGHT INFORMATION
 LICENSE USED
