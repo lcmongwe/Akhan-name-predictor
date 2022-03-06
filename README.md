@@ -19,8 +19,8 @@ Author: LUCY MONGWE
 > The program the checks for conditions to match your data and out puts results.
 > If you do not choose your gender or birthday the program gives you an alert to enter the values since they are required.
  if your data is correctly matched you get a true value output .
- - Example : - Hey! your akhan name is Kwasi and you were born on monday (if your gender is male)
-           : - Hye! your akhan name is  Akosua and you were born on monday(if your gender is female)
+ - Example : Hey! your akhan name is Kwasi and you were born on monday (if your gender is male)
+           OR  Hey! your akhan name is  Akosua and you were born on monday(if your gender is female)
 
 ### TECHNOLOGIES USED
 - HTML5
