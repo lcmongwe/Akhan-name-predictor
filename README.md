@@ -9,6 +9,10 @@ Akhan names are related to a Ghanian naming system whereby one is named after th
 Author: LUCY MONGWE
 
 ### PROJECT SETUP INSTRUCTIONS
+- Open terminal {Ctrl +Alt + T}
+- [git clone] (https://github.com/lcmongwe/Akhan-name-predictor.git)
+- cd akhan-names
+- code . or atom . depending on your text editor
 
 ### BDD
 
@@ -25,7 +29,7 @@ Have any questions? reach me on:
 3. Email : lcmongwe@gmail.com
 
 ### LICENSE AND COPYRIGHT INFORMATION
-LICENSE USED
+
 MIT LICENCE
 
 ### LINK TO GITHUB PAGES
