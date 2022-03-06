@@ -13,6 +13,10 @@ Author: LUCY MONGWE
 ### BDD
 
 ### TECHNOLOGIES USED
+- HTML5
+-
+-
+- 
 
 ### CONTACT INFORMATION
 Have any questions? reach me on:
