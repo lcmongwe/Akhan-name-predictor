@@ -2,7 +2,11 @@
     margin: 0;
     padding: 0;
     background-color: rgb(216, 169, 50);
+   
+}
 
+body{
+    
 }
 .image{
     border-radius: 0% 0% 0% 100%;
@@ -119,4 +123,13 @@ form{
 .about p{
     font-size: 24px;
     text-align: center;
+    padding-left: 20px;
+}
+
+.result p{
+    background: white;
+    height: 50px;
+    border-radius: 1em;
+    font-size: 22px;
+    padding-left: 10px;
 }

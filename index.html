@@ -34,9 +34,9 @@
         <form id="form_data">
             
             <select id="gender" required>
-                <option class="text" value="">CHOOSE YOUR GENDER</option>
-                <option class="text" value="">male</option>
-                <option class="text" value="">female</option>
+                <option class="text" value="" default selected>CHOOSE YOUR GENDER</option>
+                <option class="text" value="male">male</option>
+                <option class="text" value="female">female</option>
             </select>
             <br>
             <br>        
@@ -44,12 +44,15 @@
             <input type="date" value="" name="birthday" id="birthday">
         
             <br>
-            <button type="button" onclick="akhanNames">SUBMIT</button>
+            <button type="button" onclick="akhanNames()">SUBMIT</button>
             <br>
            
             <br>
-           <p id="message>"></p>
-            
+            <div class="result">
+                <p id="message"></p>
+            </div>
+           
+            <br>
            
         </form>
     </div>
