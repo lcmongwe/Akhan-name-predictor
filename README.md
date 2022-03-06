@@ -10,7 +10,7 @@ Author: LUCY MONGWE
 
 ### PROJECT SETUP INSTRUCTIONS
 - Open terminal {Ctrl +Alt + T}
-- [git clone] (https://github.com/lcmongwe/Akhan-name-predictor.git)
+- git clone https://github.com/lcmongwe/Akhan-name-predictor.git
 - cd akhan-names
 - code . or atom . depending on your text editor
 
