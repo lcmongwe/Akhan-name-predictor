@@ -6,7 +6,7 @@ This is a simple program that takes in the user date of birth and gender. It the
 Akhan names are related to a Ghanian naming system whereby one is named after the day of the week they were born.
 
 ### AUTHORS INFORMATION
-Author: LUCY MONGWE
+Author: Lucy Mongwe
 
 ### PROJECT SETUP INSTRUCTIONS
 - Open terminal {Ctrl +Alt + T}
@@ -35,7 +35,8 @@ Have any questions? reach me on:
 3. Email : lcmongwe@gmail.com
 
 ### LICENSE AND COPYRIGHT INFORMATION
-
-MIT LICENCE
+MIT License
 
 ### LINK TO GITHUB PAGES
+> Here is a link to githubpages
+[github pages]("")
