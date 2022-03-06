@@ -14,9 +14,9 @@ Author: LUCY MONGWE
 
 ### TECHNOLOGIES USED
 - HTML5
--
--
-- 
+- CSS
+- JavaScript
+- MARKDOWN
 
 ### CONTACT INFORMATION
 Have any questions? reach me on:
