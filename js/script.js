@@ -1,5 +1,5 @@
 
-function formReset(){
+function formRest(){
     document.getElementById("form_data").requestFullscreen();
 }
 
@@ -41,6 +41,6 @@ function akhanNames(){
         output.innerHTML = "Hey! your AKhan name is " + femaleName + "you were born on" +dayOfTheWeek;
     }
 
-formReset();
+formRest();
 
 }
