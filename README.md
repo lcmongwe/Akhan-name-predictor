@@ -39,4 +39,4 @@ MIT License
 
 ### LINK TO GITHUB PAGES
 > Here is a link to githubpages
-[github pages]("")
+[github pages]( https://lcmongwe.github.io/Akhan-name-predictor/ "githubpages")
