@@ -3,7 +3,7 @@ Akhan Name Predictor.
 ## SCREENSHOT
 ![AKHAN PAGE](image/akhanpage.png)
 
-### PROJECT DESCRIPTION
+### :bulb: PROJECT DESCRIPTION
 This is a simple program that takes in the user date of birth and gender. It then calculates the day of the week they were born and asigns an akhan nameto the user.
 Akhan names are related to a Ghanian naming system whereby one is named after the day of the week they were born.
 
