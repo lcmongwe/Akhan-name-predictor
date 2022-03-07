@@ -10,7 +10,7 @@ Akhan names are related to a Ghanian naming system whereby one is named after th
 ### AUTHORS INFORMATION
 Author: Lucy Mongwe
 
-### PROJECT SETUP INSTRUCTIONS
+###  :pushpin:PROJECT SETUP INSTRUCTIONS
 - Open terminal {Ctrl +Alt + T}
 - git clone https://github.com/lcmongwe/Akhan-name-predictor.git
 - cd akhan-names
