@@ -24,7 +24,7 @@ Author: Lucy Mongwe
  - Example : Hey! your akhan name is Kwasi and you were born on monday (if your gender is male)
            OR  Hey! your akhan name is  Akosua and you were born on monday(if your gender is female)
 
-### TECHNOLOGIES USED
+### :computer: TECHNOLOGIES USED
 - HTML5
 - CSS
 - JavaScript
