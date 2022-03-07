@@ -16,7 +16,7 @@ Author: Lucy Mongwe
 - cd akhan-names
 - code . or atom . depending on your text editor
 
-### BDD
+### :low_brightness: BDD
 > Enter your birthday and select your gender.
 > The program the checks for conditions to match your data and out puts results.
 > If you do not choose your gender or birthday the program gives you an alert to enter the values since they are required.
