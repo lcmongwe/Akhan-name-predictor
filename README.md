@@ -30,7 +30,7 @@ Author: Lucy Mongwe
 - JavaScript
 - MARKDOWN
 
-### CONTACT INFORMATION
+### :telephone_receiver: CONTACT INFORMATION
 Have any questions? reach me on:
 1. Twitter : @lucy_Mongwe
 2. faceboook : Lucy Mongwe
