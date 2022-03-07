@@ -39,6 +39,6 @@ Have any questions? reach me on:
 ### LICENSE AND COPYRIGHT INFORMATION
 MIT License
 
-### LINK TO GITHUB PAGES
+### :paperclip: LINK TO GITHUB PAGES
 > Here is a link to githubpages
 [github pages]( https://lcmongwe.github.io/Akhan-name-predictor/ "githubpages")
